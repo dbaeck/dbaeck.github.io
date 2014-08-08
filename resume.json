@@ -1,0 +1,181 @@
+{
+    "settings": {
+        "glyphicons" : true
+    },
+    "firstname": "Daniel",
+    "familyname": "Bäck",
+    "linkedin_id": "prat0318",
+    "github_id": "dbaeck",
+    "bio_data": {
+        "email": "db @ sharpsrc.net",
+        "website": "http://0xdb.pw",
+        "stars": ["Web Development","Mobile Applications","Computer Science","Music"],
+	"summary": {
+		"points":[
+
+		]
+	},
+        "github_projects": {
+            "details": [
+                {
+                    "project_name": "dbaeck/ai-playground",
+                    "tagline": "Live at [github](https://github.com/dbaeck/ai-playground)",
+                    "description": [
+                       
+                    ]
+                }
+            ]
+        },
+        "skills": {
+            "details": [
+                {
+                    "type": "Programming Languages",
+                    "items": [
+                        "PHP",
+                        "Python",
+                        "C#",
+                        "Java",
+                        "Javascript",
+                        "HTML+CSS"
+                    ]
+                },
+                {
+                    "type": "Web Frameworks",
+                    "items": [
+                        "CodeIgniter",
+                        "Laravel",
+                        "Bootstrap",
+                        "JQuery"
+                    ]
+                }
+            ]
+        },
+        "education": {
+	    "show_gpa": true,
+            "schools": [
+                {
+                    "degree": "Bachelor of Science",
+                    "major": "Computer Science",
+                    "institution": "University of Klagenfurt (Austria)",
+                    "graduation_year": 2012
+                }
+            ]
+        },
+        "acad_achievements": {
+            "items": [
+            ]
+        },
+        "experience": {
+            "items": [
+                {
+                    "title": "Software Developer",
+                    "organisation": "Symvaro GmbH",
+		            "location": "Klagenfurt",
+                    "from": "Sept. 2011",
+                    "to": "now",
+                    "details": [
+                        "Developing Web and Mobile Applications for Smart Cities."
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "PHP",
+                            "CodeIgniter",
+                            "Bootstrap",
+                            "MySQL",
+                            "Git",
+                            "Javascript",
+                            "JQuery",
+                            "HTML5",
+                            "CSS",
+                            "Objective C"
+                        ]
+                    }
+                },
+                {
+                    "title": "Software Developer",
+                    "organisation": "Trinitec",
+		    "location": "Klagenfurt",
+                    "from": "Jun. 2011",
+                    "to": "Aug. 2011",
+                    "details": [
+                        "Migrating an existing project to sourceforge, introducing multi-lang, splitting the project into open and closed source part."
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "Java",
+                            "Ant",
+                            "CVS",
+                            "SVN"
+                        ]
+                    }
+                },
+                {
+                    "title": "IT Support/Developer",
+                    "organisation": "Mondi Frantschach",
+		            "location": "Frantschach",
+                    "from": "Jul. 2010",
+                    "to": "Sept. 2010",
+                    "details": [
+                        "Various IT support tasks, developing Sharepoint addons"
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "C#",
+                            "Sharepoint",
+                            "DB2"
+                        ]
+                    }
+                }
+            ]
+        },
+        "other_projects": {
+            "items": [
+                {
+                    "headline": "Educational Robot",
+                    "points": [
+                    ]
+                }                
+            ]
+        },
+        "grad_courses": [
+            
+         ],
+        "undergrad_courses": [
+            {
+                "name": "",
+                "url": ""
+            }
+	    ],
+        "research_experience": {
+            "items": [
+                {
+                    "title":"",
+                    "organisation": "",
+                    "from": "",
+                    "to": "",
+                    "points": [
+                    ]
+                }
+            ]
+        },
+        "extra_curricular": {
+            "items": [
+            ]
+        },
+	"papers": {
+	   "items": [
+	   		{
+			"authors":"",
+			"title":"",
+			"misc":""
+			} 
+		   ]
+	},
+	
+	"memberships": {
+	   "committees": [
+			""
+		   ]
+	}
+    }
+}
